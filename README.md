@@ -27,11 +27,12 @@ Watch the full gameplay and feel the excitement of every bounce and burst in thi
 
 - **Simple Viral Games**: This is the version that has been hosted by Simple viral games itself.
 
-- **Google Play Store**: Dive into the full experience with the extended version, "Star Bubble," available on the Google Play Store. This version comes with additional features such as ad integration and Google Play Services for a complete gaming experience.
-
 <a href="https://timepass.games/space-bounce">
   <img src="https://cdn.simpleviralgames.com/images/d6aab998-ca91-411d-abbc-357ffbfb3675.webp" alt="Play it on Simple Viral Games Portal" width="240">
 </a>
+
+- **Google Play Store**: Dive into the full experience with the extended version, "Star Bubble," available on the Google Play Store. This version comes with additional features such as ad integration and Google Play Services for a complete gaming experience.
+
 <a href="https://play.google.com/store/apps/details?id=com.GamerzTab.StarBubble">
   <img src="https://play-lh.googleusercontent.com/3eotAufjg_daPTwfJKNiaSy2J919Ca_ED6fsrKmN0ZM6ZbrRhlA-5mAZZSe3053jfg=w2560-h1440-rw" alt="Get it on Google Play" width="240">
 </a>
