@@ -27,7 +27,9 @@ Watch the full gameplay and feel the excitement of every bounce and burst in thi
 
 - **Google Play Store**: Dive into the full experience with the extended version, "Star Bubble," available on the Google Play Store. This version comes with additional features such as ad integration and Google Play Services for a complete gaming experience.
 
-  [![Get it on Google Play](https://play-lh.googleusercontent.com/3eotAufjg_daPTwfJKNiaSy2J919Ca_ED6fsrKmN0ZM6ZbrRhlA-5mAZZSe3053jfg=w2560-h1440-rw)](https://play.google.com/store/apps/details?id=com.GamerzTab.StarBubble)
+<a href="https://play.google.com/store/apps/details?id=com.GamerzTab.StarBubble">
+  <img src="https://play-lh.googleusercontent.com/3eotAufjg_daPTwfJKNiaSy2J919Ca_ED6fsrKmN0ZM6ZbrRhlA-5mAZZSe3053jfg=w2560-h1440-rw" alt="Get it on Google Play" width="240">
+</a>
 
 ## Features
 
