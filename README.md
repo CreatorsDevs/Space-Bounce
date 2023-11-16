@@ -17,7 +17,6 @@ I'm thrilled to share that "Space Bounce" won the game jam hosted by Simple Vira
 
 Get a glimpse of "Space Bounce" in action:
 
-[![Space Bounce Gameplay](https://play-lh.googleusercontent.com/Jt45A_xNixPZXZPKQ0kC7AdgFZ1SIJtfsvcKvWRogLWFFfbytfConl2si10AgZoOorI=w2560-h1440-rw)](https://youtu.be/SxElKVzXR4E)
 <a href="https://youtu.be/SxElKVzXR4E">
   <img src="https://play-lh.googleusercontent.com/Jt45A_xNixPZXZPKQ0kC7AdgFZ1SIJtfsvcKvWRogLWFFfbytfConl2si10AgZoOorI=w2560-h1440-rw" alt="Space Bounce Gameplay" width="240">
 </a>
