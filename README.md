@@ -12,7 +12,6 @@ The version showcased here is stripped of certain features such as ad integratio
 
 [![Game Jam Winner Badge](https://media.licdn.com/dms/image/D4D22AQFi0ohv-0Qf7w/feedshare-shrink_2048_1536/0/1695727496647?e=1703116800&v=beta&t=r-MT-5ztx_RZpQOBfN_ep9SaQecKfmXQ63ckCw1LNGs)](https://www.linkedin.com/posts/simpleviralgames_svg-game-jam-winners-announced-drumroll-activity-7112396628715565056-XwTn?utm_source=share&utm_medium=member_desktop)
 I'm thrilled to share that "Space Bounce" won the game jam hosted by Simple Viral Games! This milestone marks a significant achievement in my journey as a game developer.
-Link to the news: ![LinkedIn Post](https://www.linkedin.com/posts/simpleviralgames_svg-game-jam-winners-announced-drumroll-activity-7112396628715565056-XwTn?utm_source=share&utm_medium=member_desktop)
 
 ## Gameplay Video
 
