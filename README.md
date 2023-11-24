@@ -10,34 +10,30 @@ The version showcased here is stripped of certain features such as ad integratio
 
 ## Game Jam Victory
 
+<p align="center">
 <a href="https://www.linkedin.com/posts/simpleviralgames_svg-game-jam-winners-announced-drumroll-activity-7112396628715565056-XwTn?utm_source=share&utm_medium=member_desktop">
   <img src="https://github.com/CreatorsDevs/Space-Bounce/blob/main/Images/GameJamWinner.png" alt="Game Jam" width="800">
 </a>
+</p>
 
 ## Gameplay Video
 
 Get a glimpse of "Space Bounce" in action:
 
+<p align="center">
 <a href="https://youtu.be/SxElKVzXR4E">
   <img src="https://github.com/CreatorsDevs/Space-Bounce/blob/main/Images/SpaceBounce.png" alt="Space Bounce Gameplay" width="800">
 </a>
+</p>
 Watch the full gameplay and feel the excitement of every bounce and burst in this endless space runner. 
 
 ## Play The Game
-
-- **Simple Viral Games**: This is the version that has been hosted by Simple viral games itself.
 
 <p align="center">
 <a href="https://timepass.games/space-bounce">
   <img src="https://cdn.simpleviralgames.com/images/d6aab998-ca91-411d-abbc-357ffbfb3675.webp" alt="Play it on Simple Viral Games Portal" width="240" >
 </a>
 </p>
-
-- **Google Play Store**: Dive into the full experience with the extended version, "Star Bubble," available on the Google Play Store. This version comes with additional features such as ad integration and Google Play Services for a complete gaming experience.
-
-<a href="https://play.google.com/store/apps/details?id=com.GamerzTab.StarBubble">
-  <img src="https://play-lh.googleusercontent.com/3eotAufjg_daPTwfJKNiaSy2J919Ca_ED6fsrKmN0ZM6ZbrRhlA-5mAZZSe3053jfg=w2560-h1440-rw" alt="Get it on Google Play" width="240">
-</a>
 
 ## Features
 
