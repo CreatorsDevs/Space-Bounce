@@ -19,6 +19,10 @@ The version showcased here is stripped of certain features such as ad integratio
 Get a glimpse of "Space Bounce" in action:
 
 <a href="https://youtu.be/SxElKVzXR4E">
+  <img src="https://github.com/CreatorsDevs/Space-Bounce/blob/main/Images/SpaceBounce.png" alt="Space Bounce Gameplay" width="800">
+</a>
+
+<a href="https://youtu.be/SxElKVzXR4E">
   <img src="https://play-lh.googleusercontent.com/Jt45A_xNixPZXZPKQ0kC7AdgFZ1SIJtfsvcKvWRogLWFFfbytfConl2si10AgZoOorI=w2560-h1440-rw" alt="Space Bounce Gameplay" width="240">
 </a>
 
