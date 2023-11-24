@@ -4,7 +4,7 @@ Welcome to the official repository of "Space Bounce," a captivating one-tap game
 
 ## Game Overview
 
-"Space Bounce" is a mellowed-down version of "Star Bubble," crafted carefully for a game jam organized by Simple Viral Games. This simple yet enthralling one-tap adventure surpassed all expectations and clinched its spot in the competition.
+"Space Bounce" is a mellowed-down version of "Star Bubble," crafted carefully for a game jam organized by Simple Viral Games. This simple yet enthralling one-tap runner surpassed all expectations and clinched its spot in the competition.
 
 The version showcased here is stripped of certain features such as ad integration and Google Play Services to maintain simplicity and focus on the core gameplay experience.
 
@@ -21,12 +21,7 @@ Get a glimpse of "Space Bounce" in action:
 <a href="https://youtu.be/SxElKVzXR4E">
   <img src="https://github.com/CreatorsDevs/Space-Bounce/blob/main/Images/SpaceBounce.png" alt="Space Bounce Gameplay" width="800">
 </a>
-
-<a href="https://youtu.be/SxElKVzXR4E">
-  <img src="https://play-lh.googleusercontent.com/Jt45A_xNixPZXZPKQ0kC7AdgFZ1SIJtfsvcKvWRogLWFFfbytfConl2si10AgZoOorI=w2560-h1440-rw" alt="Space Bounce Gameplay" width="240">
-</a>
-
-Watch the full gameplay and feel the excitement of every bounce and burst in this captivating space adventure.
+Watch the full gameplay and feel the excitement of every bounce and burst in this endless space runner. 
 
 ## Play The Game
 
